@@ -1,0 +1,31 @@
+{
+	"name": "Novo projeto",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "nix505o8tjq",
+	"viewport-width": 480,
+	"viewport-height": 854,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "portrait",
+	"c2version": "244",
+	"c3version": "r379",
+	"ife": true,
+	"used-plugins": [
+		"Sprite",
+		"Touch",
+		"TiledBg",
+		"Particles",
+		"Text",
+		"Audio",
+		"TextBox"
+	],
+	"used-behaviors": [
+		"solid",
+		"Bullet",
+		"Platform",
+		"bound"
+	]
+}
